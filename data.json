@@ -1,0 +1,87 @@
+{
+    "appointment": [
+        {
+            "index": -1,
+            "time": "02:11",
+            "midday": "AM",
+            "date": "10/1/2021",
+            "doctorID": "17P8130",
+            "patientID": "17P8134"
+        },
+        {
+            "index": -1,
+            "time": "06:11",
+            "midday": "AM",
+            "date": "15/12/2021",
+            "doctorID": "17P8130",
+            "patientID": "17P8134"
+        }
+    ],
+    "doctor": [
+        {
+            "index": -1,
+            "ID": "203C3898",
+            "name": "Biplob Sutradhar",
+            "address": "Room No 320",
+            "phone": "01742069420",
+            "speciality": "Everything"
+        },
+        {
+            "index": -1,
+            "ID": "202C3824",
+            "name": "Sakib Sarker",
+            "address": "Room No 320",
+            "phone": "01733701822",
+            "speciality": "The only gay doctor \u003c3"
+        }
+    ],
+    "ePatient": [
+        {
+            "room": " none",
+            "index": -1,
+            "ID": "212C4021",
+            "name": "Hosen Bakaul",
+            "address": "Room no 320",
+            "phone": "018124578369",
+            "gender": "Male",
+            "payment": "Cash",
+            "symptom": "FreeFire Addicted",
+            "diagnosis": "Locking up in prison"
+        }
+    ],
+    "nPatient": [
+        {
+            "index": -1,
+            "ID": "203C3898",
+            "name": "Mahian Islam Sadim",
+            "address": "RX SHOP BD",
+            "phone": "01823489678",
+            "gender": "Male",
+            "payment": "Health Insurance",
+            "symptom": "Too much business",
+            "diagnosis": "Keep his phone away"
+        },
+        {
+            "index": -1,
+            "ID": "203C3927",
+            "name": "Md Zonaid",
+            "address": "His study desk",
+            "phone": "01912311856",
+            "gender": "Male",
+            "payment": "Cash",
+            "symptom": "Too much study",
+            "diagnosis": "None"
+        },
+        {
+            "index": -1,
+            "ID": "203C3913",
+            "name": "Robiul Awal",
+            "address": "Room 419",
+            "phone": "0131544115",
+            "gender": "Male",
+            "payment": "VISA",
+            "symptom": "BoroVai disease",
+            "diagnosis": "something science cannot understand"
+        }
+    ]
+}
